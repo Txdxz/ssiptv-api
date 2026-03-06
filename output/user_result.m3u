@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/Txdxz/ssiptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.210:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 19:21:16
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4" tvg-logo="http://10.1.0.210:5180/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-5+" tvg-logo="http://10.1.0.210:5180/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-16" tvg-logo="http://10.1.0.210:5180/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="http://10.1.0.210:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="北京卫视" tvg-logo="http://10.1.0.210:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://23.237.228.134/live3/beijing.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="青海卫视" tvg-logo="http://10.1.0.210:5180/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="7" tvg-name="深圳卫视" tvg-logo="http://10.1.0.210:5180/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="三沙卫视" tvg-logo="http://10.1.0.210:5180/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="9" tvg-name="广州综合" tvg-logo="http://10.1.0.210:5180/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
